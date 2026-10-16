@@ -1,0 +1,7 @@
+# Generated firmware and intermediate build files
+/build/
+
+# Editor and operating-system files
+.vscode/
+Thumbs.db
+.DS_Store
